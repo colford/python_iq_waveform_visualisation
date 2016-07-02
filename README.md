@@ -6,3 +6,5 @@ the frequency, amplitude, phase and sample interval.
 * Red = Q
 * Black = I+Q
 * Green = 0
+
+![alt tag](https://github.com/colford/python_iq_waveform_visualisation/blob/master/Capture.JPG)
